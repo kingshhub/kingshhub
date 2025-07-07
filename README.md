@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kingshhub
-- 👀 I’m interested in Data analysis, machine learning and AI
-- 🌱 I’m currently learning data analysis
-- 💞️ I’m looking to collaborate on Data analysis project
+- 👀 I’m interested in Backend and mobile development.
+- 🌱 I’m currently open to work with fast growing team on innovative solutions.
+- 💞️ I’m looking to collaborate on early stage startup team. 
 - 📫 How to reach me formulaking07@gmail.com
 
 <!---
