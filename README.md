@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kingshhub
-- 👀 I’m interested in Cloud & DevOps, Backend and mobile development.
+- 👀 I’m interested in Cloud & DevOps, QA Testing and Automations Backend and mobile development.
 - 🌱 I’m currently open to work with fast growing team on innovative solutions.
 - 💞️ I’m looking to collaborate on early/growth stage startup team. 
 - 📫 How to reach me formulaking07@gmail.com
